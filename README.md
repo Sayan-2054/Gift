@@ -34,7 +34,9 @@ This is a beautiful and heartfelt **birthday webpage** created as a digital gift
 ## 📸 Photo Tips
 
 - To make the gallery shine: Replace .photo-placeholder divs with:
-<img src="your-photo.jpg" alt="Special memory with Sushmita" style="width:100%; height:100%; object-fit:cover; border-radius:15px;" />
+```html
+<img src="your-photo.jpg" alt="Special memory" style="width:100%; height:100%; object-fit:cover; border-radius:15px;" />
+```
 
 ## 💡 Inspiration
 
